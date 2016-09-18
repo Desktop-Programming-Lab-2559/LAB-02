@@ -90,3 +90,29 @@
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในกานคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+##อ้างอิง
+
+
+* [WNDCLASS structure](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633576(v=vs.85).aspx)
+* [Using Window Classes](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633575(v=vs.85).aspx)
+* [CreateWindow function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms632679(v=vs.85).aspx)
+* [LoadIcon function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms648072(v=vs.85).aspx)
+* [LoadCursor function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms648391(v=vs.85).aspx)
+* [ShowWindow function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633548(v=vs.85).aspx)
+* [UpdateWindow function](https://msdn.microsoft.com/en-us/library/windows/desktop/dd145167(v=vs.85).aspx)
+* [GetMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644936(v=vs.85).aspx)
+* [TranslateMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644955(v=vs.85).aspx)
+* [DispatchMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644934(v=vs.85).aspx)
+* [WindowProc callback function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633573(v=vs.85).aspx)
+* [BeginPaint function](https://msdn.microsoft.com/en-us/library/windows/desktop/dd183362(v=vs.85).aspx)
+* [EndPaint function](https://msdn.microsoft.com/en-us/library/windows/desktop/dd162598(v=vs.85).aspx)
+* [Ellipse function](https://msdn.microsoft.com/en-us/library/windows/desktop/dd162510(v=vs.85).aspx)
+* [PAINTSTRUCT structure](https://msdn.microsoft.com/en-us/library/windows/desktop/dd162768(v=vs.85).aspx)
+* [The WM_PAINT Message](https://msdn.microsoft.com/en-us/library/windows/desktop/dd145137(v=vs.85).aspx)
+* [WM_DESTROY message](https://msdn.microsoft.com/en-us/library/windows/desktop/ms632620(v=vs.85).aspx)
+* [DefWindowProc function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633572(v=vs.85).aspx)
+* [PostQuitMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644945(v=vs.85).aspx)
+ 
+
+
