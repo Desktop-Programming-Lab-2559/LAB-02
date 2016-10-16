@@ -6,7 +6,7 @@
 1. เพื่อให้มีความคุ้นเคยกับการใช้เครื่องมือต่างๆ ในการสร้าง Application บน IDE
 
 ##ลำดับการทดลอง
-1. สร้าง Project ใหม่ เป็นชนิด Visual C++ แบบ empty project ตามใบงานที่ 1
+1. สร้าง Project ใหม่ เป็นชนิด Visual C++ แบบ empty project ตามใบงานที่ 1 [ คลิกดูตัวอย่าง](https://github.com/Desktop-Programming-Lab-2559/LAB-02/blob/master/imgs/new%20empty%20win32%20project.PNG)
 2. พิมพ์โปรแกรมต่อไปนี้ลงไนไฟล์ .cpp ที่ Add เข้ามาใหม่ใน Project  (ไม่ต้องใส่เลขบรรทัดข้างหน้า)
 
 ```c 
