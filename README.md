@@ -6,6 +6,7 @@
 1. เพื่อให้มีความคุ้นเคยกับการใช้เครื่องมือต่างๆ ในการสร้าง Application บน IDE
 
 ##ลำดับการทดลอง
+###[อ่านเนื้อหาก่อน](https://github.com/Desktop-Programming-Lab-2559/LAB-02/blob/master/LabIntro.md)
 1. สร้าง Project ใหม่ เป็นชนิด Visual C++ แบบ empty project ตามใบงานที่ 1 [ (คลิกดูตัวอย่างที่นี่)](https://github.com/Desktop-Programming-Lab-2559/LAB-01#%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87)
 2. พิมพ์โปรแกรมต่อไปนี้ลงไนไฟล์ .cpp ที่ Add เข้ามาใหม่ใน Project  (ไม่ต้องใส่เลขบรรทัดข้างหน้า)
 
