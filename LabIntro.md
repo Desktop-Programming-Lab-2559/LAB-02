@@ -112,3 +112,4 @@ typedef struct tagWNDCLASS {
 72  return DefWindowProc (hwnd, message, wParam, lParam);
 73 }
 ```
+ถ้าหากต้องการเพิ่มเติมความสามารถให้กับแอพพลิเคชันของเรา เราก็จะมาเพิ่มข่าวสารที่รองรับใน callback function นี้
